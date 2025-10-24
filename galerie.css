@@ -1,0 +1,26 @@
+body{
+    background-image:url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: blanchedalmond;
+    text-align: right;
+
+}
+.lien{
+
+    color: rgb(187, 203, 211);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.grid{
+    position: relative;
+    column-count:4;
+}
+
+
+.item{
+    margin-bottom: 10px;
+}
+.item img{
+    width: 100%;
+}

@@ -1,0 +1,36 @@
+body{
+    background-image:url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.titre{
+    text-align:center;
+    color: rgb(160, 198, 223);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.banderole{
+    height: 30%;
+    width:100%;
+    text-align: right;
+}
+.lien{
+    text-align: right;
+    color: rgb(187, 203, 211);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.image{
+    height:70%;
+    width: 35%;
+    border-radius: 10%;
+}
+.c{
+    color: rgb(59, 55, 117);
+
+}
+.texte{
+    text-align:center;
+    color: rgb(107, 101, 202);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

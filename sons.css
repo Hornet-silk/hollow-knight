@@ -1,0 +1,19 @@
+body{
+    background-image:url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align:right;
+    color: blanchedalmond;
+}
+.lien{
+    text-align: right;
+    color: rgb(187, 203, 211);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.musique{
+    text-align:center;
+}
+.musique2{
+    color:rgb(21, 21, 83);
+    text-align:center;
+}
