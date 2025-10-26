@@ -20,7 +20,10 @@ body{
 
 .item{
     margin-bottom: 10px;
+    border-radius: 10%;
+    border:2% solid #080808 ;
 }
 .item img{
     width: 100%;
+
 }
